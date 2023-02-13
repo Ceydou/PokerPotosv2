@@ -1,0 +1,4 @@
+# Files we don't need
+
+.DS_Store
+assets/css/styles.css.map
